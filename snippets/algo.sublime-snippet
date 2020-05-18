@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+\begin{algorithm}[h]
+	\caption{$1}
+	\begin{algorithmic}[1]
+		$2
+	\end{algorithmic}
+\end{algorithm}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>algo</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope>
+</snippet>

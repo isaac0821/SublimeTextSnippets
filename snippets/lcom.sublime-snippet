@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\lambda \mathbf{x}_1 + (1 - \lambda) \mathbf{x}_2
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>lcom</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope>
+</snippet>

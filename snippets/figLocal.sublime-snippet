@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+\begin{figure}[!h]
+	\centering
+	\includegraphics[width=$3\textwidth]{$1}
+	\caption{$2}
+	\label{fig:$1}
+\end{figure}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>figLocal</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope>
+</snippet>
